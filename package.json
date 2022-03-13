@@ -3,7 +3,7 @@
     "license": "MIT",
     "main": "index.js",
     "name": "egg-vite-vue",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "homepage": "https://github.com/remoting/egg-vite-vue",
     "eggPlugin": {
         "name": "viteVue"
